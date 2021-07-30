@@ -10,6 +10,11 @@ The file that contains the document content is located in word/document.xml and 
 
 The xml is in ooxml format, all text elements are stored within the hierachy in <w:t> tags.
 
+## Design decisions
+
+Decided to use the xml-js library as I've used it before and it's very convenient and quick.
+Looked at potentially using regex but there are a few posts suggesting to steer away from it as it can sturggle with nested tags - not that with word you can end up with nested <w:t> - at the moment at least, but you never know. Besides as stated the xml-js library is very efficient and will allow different type of processing in the future should they be required.
+
 ## Initial design
 
 The initial design does the following:
