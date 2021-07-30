@@ -1,0 +1,5094 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+  xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+  xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+  xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+  xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+  xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+  xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+  xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+  xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+  xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+  xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+  xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+  xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+  xmlns:v="urn:schemas-microsoft-com:vml"
+  xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+  xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+  xmlns:w10="urn:schemas-microsoft-com:office:word"
+  xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+  xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+  xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+  xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+  xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+  xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+  xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
+  xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+  xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+  xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+  xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+  xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+  <w:body>
+    <w:p w14:paraId="074D5BB5" w14:textId="77777777" w:rsidR="00911AC9" w:rsidRDefault="00911AC9" w:rsidP="00911AC9"/>
+    <w:p w14:paraId="3DC3D5DE" w14:textId="77777777" w:rsidR="00E54010" w:rsidRDefault="00E54010" w:rsidP="009027E6"/>
+    <w:p w14:paraId="1CF07872" w14:textId="77777777" w:rsidR="0063120F" w:rsidRDefault="0063120F" w:rsidP="009027E6"/>
+    <w:p w14:paraId="50497C3D" w14:textId="77777777" w:rsidR="0063120F" w:rsidRDefault="0063120F" w:rsidP="009027E6"/>
+    <w:p w14:paraId="2E300D4C" w14:textId="77777777" w:rsidR="0063120F" w:rsidRDefault="0063120F" w:rsidP="009027E6"/>
+    <w:p w14:paraId="047AEDFC" w14:textId="77777777" w:rsidR="0063120F" w:rsidRDefault="0063120F" w:rsidP="009027E6"/>
+    <w:p w14:paraId="7B089A0F" w14:textId="77777777" w:rsidR="0063120F" w:rsidRDefault="0063120F" w:rsidP="009027E6"/>
+    <w:p w14:paraId="140B3686" w14:textId="77777777" w:rsidR="0063120F" w:rsidRDefault="0063120F" w:rsidP="009027E6"/>
+    <w:p w14:paraId="0D377CF0" w14:textId="77777777" w:rsidR="0063120F" w:rsidRDefault="0063120F" w:rsidP="009027E6"/>
+    <w:p w14:paraId="24C0B6E4" w14:textId="77777777" w:rsidR="0063120F" w:rsidRDefault="0063120F" w:rsidP="009027E6"/>
+    <w:p w14:paraId="1035090B" w14:textId="77777777" w:rsidR="0063120F" w:rsidRDefault="0063120F" w:rsidP="009027E6"/>
+    <w:p w14:paraId="5DA8B805" w14:textId="77777777" w:rsidR="0063120F" w:rsidRDefault="00763B39" w:rsidP="00763B39">
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="2815"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r>
+        <w:tab/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2CA88D88" w14:textId="77777777" w:rsidR="00827522" w:rsidRPr="000F69B2" w:rsidRDefault="00827522" w:rsidP="000F69B2">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="000F69B2">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>Picnic in the park</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="594A5B98" w14:textId="77777777" w:rsidR="005B7C83" w:rsidRPr="005B7C83" w:rsidRDefault="00E2515B" w:rsidP="005B7C83">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:ind w:left="720"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="005B7C83">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+        </w:rPr>
+        <w:t xml:space="preserve">You are invited to meet at 1pm </w:t>
+      </w:r>
+      <w:r w:rsidRPr="005B7C83">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">on 31 </w:t>
+      </w:r>
+      <w:r w:rsidR="002D6CC8" w:rsidRPr="005B7C83">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">July </w:t>
+      </w:r>
+      <w:r w:rsidRPr="005B7C83">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">in Darley Park </w:t>
+      </w:r>
+      <w:r w:rsidRPr="005B7C83">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+        </w:rPr>
+        <w:t>for an informal picnic at the Chester Green entrance.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="14A8B11C" w14:textId="77777777" w:rsidR="00827522" w:rsidRPr="00A34D0F" w:rsidRDefault="00827522" w:rsidP="00A34D0F">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:ind w:left="720"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00827522">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>Bring your own food</w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">. </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00A34D0F">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">You’ll </w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">also </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00A34D0F">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">need to bring something to sit on </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="269F3F50" w14:textId="77777777" w:rsidR="005F729A" w:rsidRDefault="005B7C83" w:rsidP="005F729A">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:ind w:left="720"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00BA6DC0">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>B</w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>eing outside</w:t>
+      </w:r>
+      <w:r w:rsidR="00BA6DC0">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r w:rsidR="00526ED6">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">hopefully </w:t>
+      </w:r>
+      <w:r w:rsidR="00E42292">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">more of us will </w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>feel safe to come together again</w:t>
+      </w:r>
+      <w:r w:rsidR="005905B7">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> face to face.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="464CA61F" w14:textId="77777777" w:rsidR="00827522" w:rsidRPr="005F729A" w:rsidRDefault="005F729A" w:rsidP="005F729A">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:ind w:left="720"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="005F729A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="058DC6BC" w14:textId="77777777" w:rsidR="005B7C83" w:rsidRPr="00555C45" w:rsidRDefault="009467F1" w:rsidP="00827522">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:ind w:left="720"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>However</w:t>
+      </w:r>
+      <w:r w:rsidR="00524357" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r w:rsidR="00136BC3" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> do please </w:t>
+      </w:r>
+      <w:r w:rsidR="00555C45" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">contact </w:t>
+      </w:r>
+      <w:r w:rsidR="00524357" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Karen </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidR="00524357" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>Bown</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidR="00524357" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> to check it’s still able to go ahead on the day </w:t>
+      </w:r>
+      <w:r w:rsidR="00555C45" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r w:rsidR="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00555C45" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Phone or </w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart"/>
+      <w:r w:rsidR="00555C45" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">text </w:t>
+      </w:r>
+      <w:r w:rsidR="00524357" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 0787027882</w:t>
+      </w:r>
+      <w:r w:rsidR="00BB17C4" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>8</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd"/>
+      <w:r w:rsidR="00136BC3" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00555C45" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>.T</w:t>
+      </w:r>
+      <w:r w:rsidR="00136BC3" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">hat way if for some reason it can’t </w:t>
+      </w:r>
+      <w:r w:rsidR="005B7C83" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>happen</w:t>
+      </w:r>
+      <w:r w:rsidR="00136BC3" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r w:rsidR="005B7C83" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00136BC3" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>no</w:t>
+      </w:r>
+      <w:r w:rsidR="00AE0EEA" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00136BC3" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>one should be disappointed</w:t>
+      </w:r>
+      <w:r w:rsidR="00524357" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FF0000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">! </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2B0DDB1D" w14:textId="77777777" w:rsidR="009467F1" w:rsidRPr="00AD4228" w:rsidRDefault="005B7C83" w:rsidP="00827522">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:ind w:left="720"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="201F1E"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Just so you know, </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>no risk assessment is required</w:t>
+      </w:r>
+      <w:r w:rsidR="006E29A9">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> as this is not an official Parkinson’s UK event. Everyone is therefore responsible for themselves. It is to be held in this public park, but we</w:t>
+      </w:r>
+      <w:r w:rsidR="006E29A9">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>’ve heard there is a possibility</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> the</w:t>
+      </w:r>
+      <w:r w:rsidR="006E29A9">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>ir</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="006E29A9">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>toilet facilities</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="006E29A9">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">may not </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>actually be open on the day</w:t>
+      </w:r>
+      <w:r w:rsidR="006E29A9">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> - we have been warned</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>!</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4D9B9F95" w14:textId="77777777" w:rsidR="00E2515B" w:rsidRPr="00AD4228" w:rsidRDefault="00E2515B" w:rsidP="00EE3BCE">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="C00000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="C00000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>HURRAH AT LAST</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6645EBDF" w14:textId="77777777" w:rsidR="00E2515B" w:rsidRPr="00C651D4" w:rsidRDefault="00AE0EEA" w:rsidP="00E2515B">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="17"/>
+        </w:numPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>W</w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F" w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>e will be</w:t>
+      </w:r>
+      <w:r w:rsidR="00E2515B" w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> able to </w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F" w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>resum</w:t>
+      </w:r>
+      <w:r w:rsidR="00E2515B" w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">e </w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F" w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>our face-to-face Branch meeting</w:t>
+      </w:r>
+      <w:r w:rsidR="00E2515B" w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>……</w:t>
+      </w:r>
+      <w:r w:rsidR="00C651D4" w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>after 16 months</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2376B490" w14:textId="77777777" w:rsidR="00655DE4" w:rsidRPr="00C651D4" w:rsidRDefault="00E2515B" w:rsidP="00655DE4">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="17"/>
+        </w:numPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F" w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 3 August, 2.00 to 4.00 pm </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1BF9B708" w14:textId="77777777" w:rsidR="00655DE4" w:rsidRPr="00C651D4" w:rsidRDefault="00655DE4" w:rsidP="00655DE4">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="17"/>
+        </w:numPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">This will be </w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F" w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>at our usual venue</w:t>
+      </w:r>
+      <w:r w:rsidR="00CC5A78" w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F" w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>The York Suite, Aston Court Hotel, Midland Road Derby DE1 2SL.</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="55EF62A8" w14:textId="77777777" w:rsidR="00655DE4" w:rsidRPr="00C651D4" w:rsidRDefault="00655DE4" w:rsidP="00655DE4">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="17"/>
+        </w:numPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+        </w:rPr>
+        <w:t>There will be no speaker,</w:t>
+      </w:r>
+      <w:r w:rsidR="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+        </w:rPr>
+        <w:t>just an open meeting to renew old friendships</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5BA89C13" w14:textId="77777777" w:rsidR="00C651D4" w:rsidRPr="00C651D4" w:rsidRDefault="00655DE4" w:rsidP="00C651D4">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="17"/>
+        </w:numPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+        </w:rPr>
+        <w:t>Seating will be limited to 6 per table</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6E7864F5" w14:textId="77777777" w:rsidR="00C651D4" w:rsidRPr="00C651D4" w:rsidRDefault="00655DE4" w:rsidP="00C651D4">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="17"/>
+        </w:numPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+        </w:rPr>
+        <w:t>Hand sanitiser will be available</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1BC605F7" w14:textId="77777777" w:rsidR="00A34D0F" w:rsidRPr="00C651D4" w:rsidRDefault="00655DE4" w:rsidP="00C651D4">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="17"/>
+        </w:numPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+        </w:rPr>
+        <w:t>The wearing of masks is optional</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="16DF8B0E" w14:textId="77777777" w:rsidR="005D2210" w:rsidRDefault="00526ED6" w:rsidP="00CC5A78">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Especially if you can’t make the picnic, it’d </w:t>
+      </w:r>
+      <w:r w:rsidR="00CC5A78">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">be great </w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F" w:rsidRPr="005D2210">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>to see</w:t>
+      </w:r>
+      <w:r w:rsidR="00CC5A78">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00A34D0F" w:rsidRPr="005D2210">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>you</w:t>
+      </w:r>
+      <w:r w:rsidR="00CC5A78">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> there</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="18E66604" w14:textId="77777777" w:rsidR="005F729A" w:rsidRPr="00555C45" w:rsidRDefault="005F729A" w:rsidP="00813A99">
+      <w:pPr>
+        <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="59E45755" w14:textId="77777777" w:rsidR="00555C45" w:rsidRPr="00555C45" w:rsidRDefault="00813A99" w:rsidP="00813A99">
+      <w:pPr>
+        <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Rosi</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t xml:space="preserve"> Avis is doing the Manchester Marathon in October.</w:t>
+      </w:r>
+      <w:r w:rsidR="00FD236A" w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="27F73458" w14:textId="77777777" w:rsidR="00813A99" w:rsidRPr="00AD4228" w:rsidRDefault="005E57A1" w:rsidP="00813A99">
+      <w:pPr>
+        <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:noProof/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:drawing>
+          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="1" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="0EE0A3AE" wp14:editId="5AF4082D">
+            <wp:simplePos x="0" y="0"/>
+            <wp:positionH relativeFrom="column">
+              <wp:posOffset>-635</wp:posOffset>
+            </wp:positionH>
+            <wp:positionV relativeFrom="paragraph">
+              <wp:posOffset>576580</wp:posOffset>
+            </wp:positionV>
+            <wp:extent cx="2213610" cy="2321560"/>
+            <wp:effectExtent l="0" t="0" r="0" b="2540"/>
+            <wp:wrapTight wrapText="bothSides">
+              <wp:wrapPolygon edited="0">
+                <wp:start x="0" y="0"/>
+                <wp:lineTo x="0" y="21446"/>
+                <wp:lineTo x="21377" y="21446"/>
+                <wp:lineTo x="21377" y="0"/>
+                <wp:lineTo x="0" y="0"/>
+              </wp:wrapPolygon>
+            </wp:wrapTight>
+            <wp:docPr id="4" name="Picture 4" descr="A picture containing sky, outdoor, person, sport&#xA;&#xA;Description automatically generated"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="4" name="Picture 4" descr="A picture containing sky, outdoor, person, sport&#xA;&#xA;Description automatically generated"/>
+                    <pic:cNvPicPr/>
+                  </pic:nvPicPr>
+                  <pic:blipFill rotWithShape="1">
+                    <a:blip r:embed="rId8">
+                      <a:extLst>
+                        <a:ext uri="{BEBA8EAE-BF5A-486C-A8C5-ECC9F3942E4B}">
+                          <a14:imgProps xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+                            <a14:imgLayer r:embed="rId9">
+                              <a14:imgEffect>
+                                <a14:brightnessContrast bright="40000" contrast="40000"/>
+                              </a14:imgEffect>
+                            </a14:imgLayer>
+                          </a14:imgProps>
+                        </a:ext>
+                        <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                          <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/>
+                        </a:ext>
+                      </a:extLst>
+                    </a:blip>
+                    <a:srcRect l="28621" t="23889" r="15023" b="16359"/>
+                    <a:stretch/>
+                  </pic:blipFill>
+                  <pic:spPr bwMode="auto">
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="2213610" cy="2321560"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                    <a:ln>
+                      <a:noFill/>
+                    </a:ln>
+                    <a:extLst>
+                      <a:ext uri="{53640926-AAD7-44D8-BBD7-CCE9431645EC}">
+                        <a14:shadowObscured xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                      </a:ext>
+                    </a:extLst>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+            <wp14:sizeRelV relativeFrom="margin">
+              <wp14:pctHeight>0</wp14:pctHeight>
+            </wp14:sizeRelV>
+          </wp:anchor>
+        </w:drawing>
+      </w:r>
+      <w:r w:rsidR="00813A99" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        </w:rPr>
+        <w:t xml:space="preserve">She </w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart"/>
+      <w:r w:rsidR="00813A99" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        </w:rPr>
+        <w:t>writes :</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd"/>
+      <w:r w:rsidR="00813A99" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        </w:rPr>
+        <w:br/>
+        <w:t xml:space="preserve"> "In October, I'm going to be taking on my first marathon to raise money for the Derby Branch of Parkinson’s UK. They've been such a great source of support and community to my wonderful Auntie and Uncle, since Brian was diagnosed 16 years ago. I'd be so grateful if you could spare a few pennies to help me say thank you </w:t>
+      </w:r>
+      <w:r w:rsidR="00813A99" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Segoe UI Emoji" w:hAnsi="Segoe UI Emoji" w:cs="Segoe UI Emoji"/>
+        </w:rPr>
+        <w:t>❤</w:t>
+      </w:r>
+      <w:r w:rsidR="00813A99" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        </w:rPr>
+        <w:t></w:t>
+      </w:r>
+      <w:hyperlink r:id="rId10" w:tgtFrame="_blank" w:history="1">
+        <w:r w:rsidR="00813A99" w:rsidRPr="00AD4228">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+            <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+            <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          </w:rPr>
+          <w:t>justgiving.com/fundraising/</w:t>
+        </w:r>
+        <w:proofErr w:type="spellStart"/>
+        <w:r w:rsidR="00813A99" w:rsidRPr="00AD4228">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+            <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+            <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          </w:rPr>
+          <w:t>rosiavis</w:t>
+        </w:r>
+        <w:proofErr w:type="spellEnd"/>
+      </w:hyperlink>
+      <w:r w:rsidR="00813A99" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        </w:rPr>
+        <w:t>” </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="519FCCFD" w14:textId="77777777" w:rsidR="00813A99" w:rsidRPr="00555C45" w:rsidRDefault="00555C45" w:rsidP="00555C45">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:jc w:val="center"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Good luck to Brian and Liz Greaves niece</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> we look forward to hearing how it goes</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7A87E883" w14:textId="77777777" w:rsidR="00813A99" w:rsidRPr="005D2210" w:rsidRDefault="00813A99" w:rsidP="00555C45">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="4AEFEB4A" w14:textId="77777777" w:rsidR="005F729A" w:rsidRDefault="005F729A" w:rsidP="00EE3BCE">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="71225FE7" w14:textId="77777777" w:rsidR="00C651D4" w:rsidRDefault="00C651D4" w:rsidP="00EE3BCE">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="4EC621F2" w14:textId="77777777" w:rsidR="00C651D4" w:rsidRDefault="00C651D4" w:rsidP="00EE3BCE">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="221112AA" w14:textId="77777777" w:rsidR="00BA6DC0" w:rsidRDefault="00BA6DC0" w:rsidP="00EE3BCE">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="0405BDC2" w14:textId="77777777" w:rsidR="00E2515B" w:rsidRDefault="00E2515B" w:rsidP="00EE3BCE">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t xml:space="preserve">Believe it or not </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6B4D5F37" w14:textId="77777777" w:rsidR="00BA6DC0" w:rsidRPr="00AD4228" w:rsidRDefault="00BA6DC0" w:rsidP="00EE3BCE">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="124AB379" w14:textId="77777777" w:rsidR="00E2515B" w:rsidRDefault="00E2515B" w:rsidP="00E2515B">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="003E1251">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Lisa Collett and </w:t>
+      </w:r>
+      <w:r w:rsidRPr="003E1251">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Ian </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="003E1251">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>Billcliff</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, our </w:t>
+      </w:r>
+      <w:r w:rsidRPr="003E1251">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        </w:rPr>
+        <w:t>Treasurers</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> tell us the </w:t>
+      </w:r>
+      <w:r w:rsidR="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">final </w:t>
+      </w:r>
+      <w:r w:rsidRPr="003E1251">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>Alfreton Inner Wheel</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> donation received was </w:t>
+      </w:r>
+      <w:r w:rsidR="00FD236A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">actually </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="000000"/>
+          <w:sz w:val="27"/>
+          <w:szCs w:val="27"/>
+        </w:rPr>
+        <w:t>£645</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> for local </w:t>
+      </w:r>
+      <w:r w:rsidRPr="003E1251">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Derby Branch funds. </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="56D3F169" w14:textId="77777777" w:rsidR="00E2515B" w:rsidRDefault="00E2515B" w:rsidP="00E2515B">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>W</w:t>
+      </w:r>
+      <w:r w:rsidR="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">hat a generous gift, we are delighted </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>that they thought of giving it to support local people and families with Parkinson’s</w:t>
+      </w:r>
+      <w:r w:rsidR="00EE3BCE">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidR="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> As things return to normal, there will plenty of ways the Branch can make use of the money to benefit local people with the condition.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1BE13BCA" w14:textId="77777777" w:rsidR="00E2515B" w:rsidRPr="009634F4" w:rsidRDefault="00E2515B" w:rsidP="00E2515B">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2ABF646A" w14:textId="77777777" w:rsidR="00A6506D" w:rsidRPr="00C651D4" w:rsidRDefault="00C651D4" w:rsidP="00555C45">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Ways you can help</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0B7BFA8C" w14:textId="77777777" w:rsidR="00E2515B" w:rsidRPr="00AD4228" w:rsidRDefault="00EE3BCE" w:rsidP="00943B0A">
+      <w:pPr>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Remember all that voting and hassle finding a Chairperson? Thankfully</w:t>
+      </w:r>
+      <w:r w:rsidR="005F729A" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> Rachel stepped in to help us,</w:t>
+      </w:r>
+      <w:r w:rsidR="00FD236A" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">but </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>t</w:t>
+      </w:r>
+      <w:r w:rsidR="00E2515B" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">he group </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">still </w:t>
+      </w:r>
+      <w:r w:rsidR="00E2515B" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">need a vice chair, speaker finder </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>and</w:t>
+      </w:r>
+      <w:r w:rsidR="00E2515B" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> trip organiser</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>. We’ve publicised</w:t>
+      </w:r>
+      <w:r w:rsidR="00E2515B" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> this on Facebook/Twitter and </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">will highlight this </w:t>
+      </w:r>
+      <w:r w:rsidR="00E2515B" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>at the next meeting</w:t>
+      </w:r>
+      <w:r w:rsidR="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidR="00526ED6">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Maybe </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>you</w:t>
+      </w:r>
+      <w:r w:rsidR="00FD236A" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">’d be prepared to </w:t>
+      </w:r>
+      <w:r w:rsidR="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">do </w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart"/>
+      <w:r w:rsidR="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">one </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> of</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd"/>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> these </w:t>
+      </w:r>
+      <w:r w:rsidR="00FD236A" w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t>jobs,</w:t>
+      </w:r>
+      <w:r w:rsidR="00C651D4">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> or know of someone recently retired or has reduced their working hours -  </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000"/>
+        </w:rPr>
+        <w:t xml:space="preserve">let us know at the meeting or ring or text </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>0745678155</w:t>
+      </w:r>
+      <w:r w:rsidR="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>. In coming days, as things open up</w:t>
+      </w:r>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r w:rsidR="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> this will be </w:t>
+      </w:r>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>increasingly needed</w:t>
+      </w:r>
+      <w:r w:rsidR="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> for Branch activities.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2E477DA4" w14:textId="77777777" w:rsidR="00E2515B" w:rsidRPr="00AD4228" w:rsidRDefault="00E2515B" w:rsidP="00943B0A">
+      <w:pPr>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="0000FF"/>
+          <w:u w:val="single"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="07ABB993" w14:textId="77777777" w:rsidR="00E2515B" w:rsidRPr="00AD4228" w:rsidRDefault="00AD4228" w:rsidP="00526ED6">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>sQuad</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00AD4228">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> plans for September</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="61FAEA55" w14:textId="77777777" w:rsidR="005F729A" w:rsidRDefault="005F729A" w:rsidP="005F729A">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00813A99">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Squad members were recently canvassed to</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidRPr="00813A99">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">ascertain </w:t>
+      </w:r>
+      <w:r w:rsidR="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>if</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00813A99">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> there is a demand for face-to-face</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidRPr="00813A99">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>meetings reconvening</w:t>
+      </w:r>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00813A99">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> a September gathering </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">is planned to be held </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00813A99">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>at St Peter's Church</w:t>
+      </w:r>
+      <w:r w:rsidR="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> on 4 September. We’ll let you know next time.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="71FCA5FA" w14:textId="77777777" w:rsidR="00555C45" w:rsidRDefault="00555C45" w:rsidP="005F729A">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="047865A1" w14:textId="77777777" w:rsidR="00876E5D" w:rsidRPr="00555C45" w:rsidRDefault="00555C45" w:rsidP="00526ED6">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:jc w:val="center"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="4E1101"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="4E1101"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>An inspiring lady.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="19DF8411" w14:textId="77777777" w:rsidR="00876E5D" w:rsidRPr="00813A99" w:rsidRDefault="00876E5D" w:rsidP="005F729A">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">I was interested to read a snippet in a magazine about a lady called Jo </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Yaldren</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> who was diagnosed with </w:t>
+      </w:r>
+      <w:r w:rsidR="00CE7D25">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>E</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">arly </w:t>
+      </w:r>
+      <w:r w:rsidR="00CE7D25">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>O</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>nset Parkinson’s in 2015.She spent a lot of time walking on her local beach</w:t>
+      </w:r>
+      <w:r w:rsidR="00CE7D25">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>;</w:t>
+      </w:r>
+      <w:r w:rsidR="00A30B05">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00CE7D25">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>c</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">ollecting rubbish </w:t>
+      </w:r>
+      <w:r w:rsidR="00CE7D25">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>as she went</w:t>
+      </w:r>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">, to make a difference. This </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>helped her focus on the here and now</w:t>
+      </w:r>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> at a difficult stage in her life.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> Her beach cleans gained a </w:t>
+      </w:r>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">big response </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>on social media.</w:t>
+      </w:r>
+      <w:r w:rsidR="00CE7D25">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Jo</w:t>
+      </w:r>
+      <w:r w:rsidR="00CE7D25">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> use</w:t>
+      </w:r>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>s</w:t>
+      </w:r>
+      <w:r w:rsidR="00CE7D25">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> beach glass she finds to make jewellery</w:t>
+      </w:r>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r w:rsidR="00526ED6">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00CE7D25">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">which she sells </w:t>
+      </w:r>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">her </w:t>
+      </w:r>
+      <w:r w:rsidR="00CE7D25">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Etsy </w:t>
+      </w:r>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>site,</w:t>
+      </w:r>
+      <w:r w:rsidR="00555C45">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">The </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Tinkerist</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidR="0089080C">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>, donating half of her profits for charity.</w:t>
+      </w:r>
+      <w:r w:rsidR="00526ED6">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2EDA4AF5" w14:textId="77777777" w:rsidR="005F729A" w:rsidRPr="00813A99" w:rsidRDefault="005F729A" w:rsidP="005F729A">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00813A99">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="4E1101"/>
+          <w:sz w:val="23"/>
+          <w:szCs w:val="23"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t></w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="077A5720" w14:textId="77777777" w:rsidR="00E2515B" w:rsidRDefault="00E2515B" w:rsidP="00943B0A">
+      <w:pPr>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="0000FF"/>
+          <w:u w:val="single"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7B6D09FD" w14:textId="77777777" w:rsidR="00E2515B" w:rsidRDefault="00E2515B" w:rsidP="00943B0A">
+      <w:pPr>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="0000FF"/>
+          <w:u w:val="single"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="212524ED" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRDefault="00450EAA" w:rsidP="00C81210">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:jc w:val="center"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="29064EDF" w14:textId="77777777" w:rsidR="00876E5D" w:rsidRPr="00876E5D" w:rsidRDefault="00876E5D" w:rsidP="00876E5D">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="720C9262" w14:textId="77777777" w:rsidR="00876E5D" w:rsidRPr="00876E5D" w:rsidRDefault="00876E5D" w:rsidP="00876E5D">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="67589D7B" w14:textId="77777777" w:rsidR="00876E5D" w:rsidRDefault="00876E5D" w:rsidP="00876E5D">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="4D9E5678" w14:textId="77777777" w:rsidR="00876E5D" w:rsidRPr="00876E5D" w:rsidRDefault="00876E5D" w:rsidP="00876E5D">
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="2997"/>
+        </w:tabs>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:tab/>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="5007" w:type="pct"/>
+        <w:tblLayout w:type="fixed"/>
+        <w:tblCellMar>
+          <w:left w:w="0" w:type="dxa"/>
+          <w:right w:w="0" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="0600" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="1" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="4397"/>
+        <w:gridCol w:w="1416"/>
+        <w:gridCol w:w="1941"/>
+        <w:gridCol w:w="2783"/>
+        <w:gridCol w:w="19"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="00450EAA" w:rsidRPr="000349F3" w14:paraId="598A2DA7" w14:textId="77777777" w:rsidTr="00605A15">
+        <w:trPr>
+          <w:trHeight w:val="7995"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5813" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcMar>
+              <w:right w:w="360" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="4E680AD1" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="009027E6" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactus"/>
+            </w:pPr>
+            <w:r w:rsidRPr="00BD6F8B">
+              <w:t>Contact us</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="0873C9DF" w14:textId="77777777" w:rsidR="005905B7" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactdetails"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="009B3DBD">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>Parkinson's Branch Derby</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009B3DBD">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:br/>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="009B3DBD">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:t>Secretary :Karen</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="009B3DBD">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="009B3DBD">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:t>Bown</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="009B3DBD">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:br/>
+            </w:r>
+            <w:bookmarkStart w:id="0" w:name="_Hlk77798339"/>
+            <w:r w:rsidRPr="009B3DBD">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Tel: </w:t>
+            </w:r>
+            <w:r w:rsidRPr="009B3DBD">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="201F1E"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+              </w:rPr>
+              <w:t>0745678155</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="0"/>
+            <w:r w:rsidRPr="009B3DBD">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:br/>
+              <w:t xml:space="preserve">Email: </w:t>
+            </w:r>
+            <w:bookmarkStart w:id="1" w:name="_Hlk67653920"/>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:fldChar w:fldCharType="begin"/>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:instrText xml:space="preserve"> HYPERLINK "mailto:</w:instrText>
+            </w:r>
+            <w:r w:rsidRPr="009B3DBD">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:instrText>enquiriesderby.parkinsons@gmail.com</w:instrText>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:instrText xml:space="preserve">" </w:instrText>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:fldChar w:fldCharType="separate"/>
+            </w:r>
+            <w:r w:rsidRPr="008D0833">
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink"/>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>enquiriesderby.parkinsons@gmail.com</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="1"/>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:fldChar w:fldCharType="end"/>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="5D143099" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="00BA422B" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactdetails"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>sQuad</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> can be contacted on: </w:t>
+            </w:r>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:br/>
+              <w:t xml:space="preserve">Tel: </w:t>
+            </w:r>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>0794 267 0259</w:t>
+            </w:r>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:br/>
+              <w:t xml:space="preserve">Email: </w:t>
+            </w:r>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>squadderby@gmail.com</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="6A994D73" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="0002343C" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactdetails"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>Parkinson’s Nurse Specialist</w:t>
+            </w:r>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:br/>
+              <w:t>Derby Royal Hospital</w:t>
+            </w:r>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:br/>
+              <w:t xml:space="preserve">Lisa Brown or Suzanne </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:t>Filon</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> can be contacted on:</w:t>
+            </w:r>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:br/>
+              <w:t xml:space="preserve">Tel: </w:t>
+            </w:r>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>01332 783535</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="163D15E3" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="0002343C" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactdetails"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+              </w:rPr>
+              <w:t>Parkinson’s Local Advisor Service</w:t>
+            </w:r>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:br/>
+              <w:t>Parkinson's UK are now encouraging the number below to be used</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> initially</w:t>
+            </w:r>
+            <w:r w:rsidR="00BA6DC0">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:t>.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="407D6887" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactdetails"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="201F1E"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="201F1E"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+              </w:rPr>
+              <w:t>Helpline number 0808 800 0303 and email </w:t>
+            </w:r>
+            <w:hyperlink r:id="rId11" w:tgtFrame="_blank" w:history="1">
+              <w:r w:rsidRPr="0002343C">
+                <w:rPr>
+                  <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                  <w:color w:val="0000FF"/>
+                  <w:u w:val="single"/>
+                  <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+                  <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+                </w:rPr>
+                <w:t>hello@parkinsons.org.uk</w:t>
+              </w:r>
+            </w:hyperlink>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="201F1E"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+              </w:rPr>
+              <w:t>.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="261FCC53" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="00BA422B" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="000000" w:themeColor="text1"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00BA422B">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="000000" w:themeColor="text1"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>Social media</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="2CEE585B" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="00BA422B" w:rsidRDefault="0037086C" w:rsidP="00B94763">
+            <w:pPr>
+              <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="201F1E"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:hyperlink r:id="rId12" w:tgtFrame="_blank" w:history="1">
+              <w:r w:rsidR="00450EAA" w:rsidRPr="00BA422B">
+                <w:rPr>
+                  <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                  <w:color w:val="0563C1"/>
+                  <w:sz w:val="20"/>
+                  <w:szCs w:val="20"/>
+                  <w:u w:val="single"/>
+                  <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+                  <w:lang w:eastAsia="en-GB"/>
+                </w:rPr>
+                <w:t>https://www.facebook.com/parkinsonsukderbybranch</w:t>
+              </w:r>
+            </w:hyperlink>
+          </w:p>
+          <w:p w14:paraId="4EC06A7B" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="00BA422B" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink"/>
+                <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00BA422B">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="201F1E"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t></w:t>
+            </w:r>
+            <w:hyperlink r:id="rId13" w:history="1">
+              <w:r w:rsidRPr="00BA422B">
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                  <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                  <w:sz w:val="20"/>
+                  <w:szCs w:val="20"/>
+                  <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+                  <w:lang w:eastAsia="en-GB"/>
+                </w:rPr>
+                <w:t>https://twitter.com/derbyparkinsons</w:t>
+              </w:r>
+            </w:hyperlink>
+          </w:p>
+          <w:p w14:paraId="46C1DF34" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="0002343C" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactdetails"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="169CA4A9" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="00BA422B" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="000000" w:themeColor="text1"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00BA422B">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">University of Derby and Burton NHS Specialist Rehabilitation Parkinson ‘s </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00BA422B">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>London Road Community Hospital, London Road, Derby DE1 2QY               01332 258255</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00BA422B">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="000000" w:themeColor="text1"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="1265A7E9" w14:textId="77777777" w:rsidR="00FD236A" w:rsidRPr="00FD236A" w:rsidRDefault="00450EAA" w:rsidP="00FD236A">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactdetails"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>Derbyshire Carers Association</w:t>
+            </w:r>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+              </w:rPr>
+              <w:br/>
+              <w:t xml:space="preserve">Tel: </w:t>
+            </w:r>
+            <w:r w:rsidRPr="0002343C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>01332 200002</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4743" w:type="dxa"/>
+            <w:gridSpan w:val="3"/>
+            <w:shd w:val="clear" w:color="auto" w:fill="EBEBEB"/>
+            <w:tcMar>
+              <w:top w:w="227" w:type="dxa"/>
+              <w:left w:w="227" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="60E7582E" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="009404CD" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactus"/>
+              <w:rPr>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="009404CD">
+              <w:rPr>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>We are Parkinson’s UK. Powered by people. Funded by you. Improving life for everyone affected by Parkinson’s. Together we’ll find a cure.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="262EC1F1" w14:textId="77777777" w:rsidR="002F70A4" w:rsidRPr="009404CD" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactdetails"/>
+            </w:pPr>
+            <w:r w:rsidRPr="009404CD">
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>Parkinson’s UK</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009404CD">
+              <w:br/>
+              <w:t>215 Vauxhall Bridge Road</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009404CD">
+              <w:br/>
+              <w:t>London SW1V 1EJ</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="6AD2FD3C" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="009404CD" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactdetails"/>
+            </w:pPr>
+            <w:r w:rsidRPr="009404CD">
+              <w:t xml:space="preserve">Free confidential helpline </w:t>
+            </w:r>
+            <w:r w:rsidRPr="009404CD">
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>0808 800 0303</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009404CD">
+              <w:br/>
+              <w:t>Monday to Friday 9am–7pm,</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009404CD">
+              <w:br/>
+              <w:t>Saturday 10am–2pm</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009404CD">
+              <w:br/>
+              <w:t>(interpreting available)</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="3B49D9F6" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="009404CD" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactdetails"/>
+            </w:pPr>
+            <w:r w:rsidRPr="009404CD">
+              <w:t xml:space="preserve">NGT Relay </w:t>
+            </w:r>
+            <w:r w:rsidRPr="009404CD">
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>18001 0808 800 0303</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009404CD">
+              <w:br/>
+              <w:t>(for textphone users only)</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="1B3B9341" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="009404CD" w:rsidRDefault="0037086C" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKcontactdetails"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+            <w:hyperlink r:id="rId14" w:history="1">
+              <w:r w:rsidR="00450EAA" w:rsidRPr="009404CD">
+                <w:rPr>
+                  <w:b/>
+                  <w:bCs/>
+                </w:rPr>
+                <w:t>hello@parkinsons.org.uk</w:t>
+              </w:r>
+            </w:hyperlink>
+            <w:r w:rsidR="00450EAA" w:rsidRPr="009404CD">
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:br/>
+              <w:t>parkinsons.org.uk</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="578CD2C5" w14:textId="5FEA1AA0" w:rsidR="00450EAA" w:rsidRPr="009404CD" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKregistereddetails"/>
+              <w:rPr>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="009404CD">
+              <w:rPr>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>Parkinson’s UK is the operating name of the Parkinson’s Disease Society of the United Kingdom. A charity registered in England and Wales (258197) and in Scotland (SC037554).</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="507EA535" w14:textId="77777777" w:rsidR="002F70A4" w:rsidRPr="009404CD" w:rsidRDefault="002F70A4" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKregistereddetails"/>
+              <w:rPr>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="2594D3B3" w14:textId="77777777" w:rsidR="00450EAA" w:rsidRPr="009404CD" w:rsidRDefault="00450EAA" w:rsidP="00B94763">
+            <w:pPr>
+              <w:pStyle w:val="PUKUKcontact"/>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C81210" w14:paraId="7BB657F0" w14:textId="77777777" w:rsidTr="00605A15">
+        <w:trPr>
+          <w:gridAfter w:val="1"/>
+          <w:wAfter w:w="19" w:type="dxa"/>
+          <w:trHeight w:val="368"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="10537" w:type="dxa"/>
+            <w:gridSpan w:val="4"/>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="25063F47" w14:textId="77777777" w:rsidR="00C81210" w:rsidRPr="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryheading"/>
+              <w:rPr>
+                <w:sz w:val="28"/>
+                <w:szCs w:val="28"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C81210">
+              <w:rPr>
+                <w:sz w:val="28"/>
+                <w:szCs w:val="28"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Upcoming activities organised by Parkinson’s </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C81210">
+              <w:rPr>
+                <w:color w:val="00AEEF"/>
+                <w:sz w:val="28"/>
+                <w:szCs w:val="28"/>
+              </w:rPr>
+              <w:t>DERBY</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C81210">
+              <w:rPr>
+                <w:sz w:val="28"/>
+                <w:szCs w:val="28"/>
+              </w:rPr>
+              <w:t>SHIRE</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C81210" w14:paraId="5C88B250" w14:textId="77777777" w:rsidTr="00605A15">
+        <w:trPr>
+          <w:gridAfter w:val="1"/>
+          <w:wAfter w:w="19" w:type="dxa"/>
+          <w:trHeight w:val="567"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4397" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="360" w:type="dxa"/>
+            </w:tcMar>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="1D588787" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+              <w:textAlignment w:val="baseline"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>Movers and Shakers</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> -singing group  </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="3357" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="68540AE6" w14:textId="77777777" w:rsidR="00C81210" w:rsidRPr="00035026" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:color w:val="auto"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00035026">
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="auto"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>Currently online</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="7B3316FB" w14:textId="77777777" w:rsidR="00C81210" w:rsidRPr="00C81210" w:rsidRDefault="00C81210" w:rsidP="00C81210">
+            <w:pPr>
+              <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+              <w:textAlignment w:val="baseline"/>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:noProof/>
+                <w:color w:val="auto"/>
+                <w:sz w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Contact </w:t>
+            </w:r>
+            <w:hyperlink r:id="rId15" w:tgtFrame="_blank" w:history="1">
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                  <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                  <w:color w:val="0000FF"/>
+                  <w:sz w:val="20"/>
+                  <w:szCs w:val="20"/>
+                  <w:lang w:eastAsia="en-GB"/>
+                </w:rPr>
+                <w:t>liz.greaves210@gmail.com</w:t>
+              </w:r>
+            </w:hyperlink>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> for log in details</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:noProof/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2783" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="72059DEE" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>Weekly Thursdays 1pm</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> by Zoom</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C81210" w14:paraId="157AB929" w14:textId="77777777" w:rsidTr="00605A15">
+        <w:trPr>
+          <w:gridAfter w:val="1"/>
+          <w:wAfter w:w="19" w:type="dxa"/>
+          <w:trHeight w:val="567"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4397" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="360" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="032D94D6" w14:textId="77777777" w:rsidR="00C81210" w:rsidRPr="002C1559" w:rsidRDefault="00C81210" w:rsidP="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="xyiv7251387041msonormal"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-US"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-US"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Monthly Squad meeting – </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-US"/>
+              </w:rPr>
+              <w:t>Saturday</w:t>
+            </w:r>
+            <w:r w:rsidR="002C1559">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-US"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r w:rsidR="005F729A">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-US"/>
+              </w:rPr>
+              <w:t xml:space="preserve">7 August </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-US"/>
+              </w:rPr>
+              <w:t>11am–12.15pm</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="3357" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="06B38D31" w14:textId="77777777" w:rsidR="00E74630" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r w:rsidR="00E74630">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Continuing to meet online </w:t>
+            </w:r>
+            <w:r w:rsidR="005F729A">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>until September</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="313C542A" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink"/>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="0000FF"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Scheduled Zoom meeting details from </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:color w:val="000000"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>sQuad</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:color w:val="000000"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="4E1101"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> 07942 670259.</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:hyperlink r:id="rId16" w:history="1">
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                  <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                  <w:color w:val="0000FF"/>
+                  <w:szCs w:val="20"/>
+                </w:rPr>
+                <w:t>squadderby@gmail.com</w:t>
+              </w:r>
+            </w:hyperlink>
+          </w:p>
+          <w:p w14:paraId="7275A50A" w14:textId="77777777" w:rsidR="00E74630" w:rsidRPr="00E74630" w:rsidRDefault="00E74630">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="auto"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2783" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="264960C4" w14:textId="77777777" w:rsidR="00C81210" w:rsidRPr="00035026" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="auto"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00035026">
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="auto"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>Monthly on the first Saturday</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="6811FF44" w14:textId="77777777" w:rsidR="00C81210" w:rsidRPr="00035026" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00035026">
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="auto"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>From 11:00 until 12:15pm</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C81210" w14:paraId="6CC5352F" w14:textId="77777777" w:rsidTr="00605A15">
+        <w:trPr>
+          <w:gridAfter w:val="1"/>
+          <w:wAfter w:w="19" w:type="dxa"/>
+          <w:trHeight w:val="733"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4397" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="360" w:type="dxa"/>
+            </w:tcMar>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="201E0B20" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>Men's group</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="3357" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="3B9D8B10" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:bCs/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:bCs/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>Currently online</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="25ECC6BF" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:color w:val="auto"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> Contact:  </w:t>
+            </w:r>
+            <w:hyperlink r:id="rId17" w:tgtFrame="_blank" w:history="1">
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                  <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                  <w:sz w:val="20"/>
+                  <w:szCs w:val="20"/>
+                </w:rPr>
+                <w:t>bgreaves818@gmail.com</w:t>
+              </w:r>
+            </w:hyperlink>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>or  mobile</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> no :07715373742 </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2783" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="07915060" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>Tuesday mornings 10am</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> on Zoom</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="24"/>
+              </w:rPr>
+              <w:t>.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C81210" w14:paraId="2D985966" w14:textId="77777777" w:rsidTr="00605A15">
+        <w:trPr>
+          <w:gridAfter w:val="1"/>
+          <w:wAfter w:w="19" w:type="dxa"/>
+          <w:trHeight w:val="567"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4397" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="360" w:type="dxa"/>
+            </w:tcMar>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="649642C2" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>High Intensity Interval Training (HIIT) session</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="3357" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="738C01E3" w14:textId="77777777" w:rsidR="00C81210" w:rsidRPr="00035026" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:color w:val="auto"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00035026">
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="auto"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>Currently online</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="5D315381" w14:textId="77777777" w:rsidR="00C81210" w:rsidRPr="00C81210" w:rsidRDefault="00C81210" w:rsidP="00C81210">
+            <w:pPr>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:color w:val="auto"/>
+                <w:sz w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Contact Vicky via email for Zoom details: </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00035026">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="4472C4" w:themeColor="accent1"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>victoria@mooremovement.co.uk</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2783" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="485D6763" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>Mondays and Thursdays 7pm</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="42540D8B" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:color w:val="auto"/>
+                <w:sz w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00C81210" w14:paraId="10861B1B" w14:textId="77777777" w:rsidTr="00605A15">
+        <w:trPr>
+          <w:gridAfter w:val="1"/>
+          <w:wAfter w:w="19" w:type="dxa"/>
+          <w:trHeight w:val="567"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4397" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="360" w:type="dxa"/>
+            </w:tcMar>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="48AA77F8" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t xml:space="preserve">Boxercise </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="4EC93DBC" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="19522A91" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>Yoga/relaxation</w:t>
+            </w:r>
+            <w:r>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="3357" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+            <w:hideMark/>
+          </w:tcPr>
+          <w:p w14:paraId="0037CB48" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+              <w:textAlignment w:val="baseline"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="201F1E"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00035026">
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="auto"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>Currently online</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00035026">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="201F1E"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t xml:space="preserve">led by Megan Smith Contact: info@movewithmegan.co.uk   or    </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>07838719717</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="777E2B05" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="201F1E"/>
+                <w:szCs w:val="20"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t>Contact:</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:color w:val="201F1E"/>
+                <w:szCs w:val="20"/>
+                <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:hyperlink r:id="rId18" w:history="1">
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="Hyperlink"/>
+                  <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                  <w:szCs w:val="20"/>
+                  <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+                  <w:lang w:eastAsia="en-GB"/>
+                </w:rPr>
+                <w:t>suetittershill@hotmail.co.uk</w:t>
+              </w:r>
+            </w:hyperlink>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2783" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="00AEEF"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="3E4562EB" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:szCs w:val="20"/>
+              </w:rPr>
+              <w:t>Tuesdays   11-11.40am</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="06F09C3A" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:pStyle w:val="PUKdiaryBODYcopy"/>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:color w:val="auto"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="57A62227" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:rPr>
+                <w:rStyle w:val="PlaceholderText"/>
+                <w:rFonts w:ascii="Nunito" w:hAnsi="Nunito"/>
+                <w:sz w:val="20"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="1B791E24" w14:textId="77777777" w:rsidR="00C81210" w:rsidRDefault="00C81210">
+            <w:pPr>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="201F1E"/>
+                <w:szCs w:val="20"/>
+                <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="201F1E"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+                <w:lang w:eastAsia="en-GB"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Tuesdays </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="201F1E"/>
+                <w:sz w:val="20"/>
+                <w:szCs w:val="20"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+              </w:rPr>
+              <w:t>11:45am -12:30</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="03CA8DFD" w14:textId="77777777" w:rsidR="00763B39" w:rsidRDefault="00763B39" w:rsidP="009939F6">
+      <w:pPr>
+        <w:jc w:val="center"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="0CB5D8B6" w14:textId="77777777" w:rsidR="003E1251" w:rsidRPr="00697CBA" w:rsidRDefault="003E1251" w:rsidP="003E1251">
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="711"/>
+        </w:tabs>
+        <w:spacing w:line="312" w:lineRule="atLeast"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Nunito" w:hAnsi="Nunito"/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="374781A1" w14:textId="77777777" w:rsidR="003E1251" w:rsidRPr="00697CBA" w:rsidRDefault="003E1251" w:rsidP="007D07D6">
+      <w:pPr>
+        <w:spacing w:line="312" w:lineRule="atLeast"/>
+        <w:jc w:val="right"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Nunito" w:hAnsi="Nunito"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="4D44CA37" w14:textId="77777777" w:rsidR="00AD4228" w:rsidRPr="005F729A" w:rsidRDefault="00AD4228" w:rsidP="00AD4228">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="005F729A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Calling all globetrotters</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00526ED6">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r w:rsidR="008F035F">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>a date for your diary</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="630E79D1" w14:textId="77777777" w:rsidR="00BA6DC0" w:rsidRDefault="00AD4228" w:rsidP="00526ED6">
+      <w:pPr>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="005F729A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>The World Parkinson Congress that was due to be held in Barcelona in June 2022, has now been re-arranged to July 2023 still in Barcelona. Several members attended a previous international congress</w:t>
+      </w:r>
+      <w:r w:rsidR="00526ED6">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r w:rsidRPr="005F729A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> a few years ago</w:t>
+      </w:r>
+      <w:r w:rsidR="00526ED6">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>,</w:t>
+      </w:r>
+      <w:r w:rsidRPr="005F729A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> in Canada and found it a worthwhile experience</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r w:rsidR="00BA6DC0" w:rsidRPr="00BA6DC0">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+      <w:r w:rsidR="00526ED6" w:rsidRPr="00526ED6">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>Perhaps a few from Derby may like to go again?</w:t>
+      </w:r>
+      <w:r w:rsidR="00526ED6">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve"></w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3D643EF6" w14:textId="77777777" w:rsidR="00526ED6" w:rsidRDefault="00526ED6" w:rsidP="00526ED6">
+      <w:pPr>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="49D03CC2" w14:textId="77777777" w:rsidR="00526ED6" w:rsidRDefault="00BA6DC0" w:rsidP="00BA6DC0">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>Did you remember to s</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00697CBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">ave the </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>d</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00697CBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>ate</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> for the Derby Parkinson’s Symposium</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="54B7ACB3" w14:textId="77777777" w:rsidR="00BA6DC0" w:rsidRDefault="00BA6DC0" w:rsidP="00BA6DC0">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>?</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00697CBA">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve">                                                                                                                                       Katie Smith (Area Development Manager) is working with the Parkinson's UK Excellence Network and the University Hospitals of Derby &amp; Burton NHS Foundation Trust team to organise this year's Derby Symposium. This will again be delivered online via Zoom and will take place on Monday 15 November 2021. This event is for </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00404F27">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>Professionals, people with Parkinson's, carers and family.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> If you’ve never been to one of these events, why not give it a try?</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="25694125" w14:textId="77777777" w:rsidR="00BA6DC0" w:rsidRDefault="00BA6DC0" w:rsidP="00AD4228">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="51F4F46B" w14:textId="77777777" w:rsidR="00EE3BCE" w:rsidRPr="005F729A" w:rsidRDefault="00EE5095" w:rsidP="00EE5095">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00161B94">
+        <w:rPr>
+          <w:rFonts w:ascii="Segoe UI Emoji" w:eastAsia="Times New Roman" w:hAnsi="Segoe UI Emoji" w:cs="Segoe UI Emoji"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>🎟💰🎁🎟💰🎁🎟💰🎁🎟💰🎁🎟</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3D518DC1" w14:textId="77777777" w:rsidR="00EE5095" w:rsidRPr="005F729A" w:rsidRDefault="00161B94" w:rsidP="00EE5095">
+      <w:pPr>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00161B94">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>After due consideration of the current rising coronavirus numbers, our fundraising event planned for September has been postponed. The event will go ahead at some point, so hang on to any items for the BIG raffle and MEGA tombola for the time being or pass onto Ann Pitt at any time.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7CB7F9A1" w14:textId="77777777" w:rsidR="003E1251" w:rsidRPr="00526ED6" w:rsidRDefault="00EE5095" w:rsidP="00526ED6">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="201F1E"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00526ED6">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="201F1E"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="38F0917F" w14:textId="77777777" w:rsidR="00B3446B" w:rsidRPr="00526ED6" w:rsidRDefault="00B3446B" w:rsidP="00526ED6">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00526ED6">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>Parkinson's UK Policy and Campaigns</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="000A804B" w14:textId="77777777" w:rsidR="00FD236A" w:rsidRDefault="00FD236A" w:rsidP="00FD236A">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="201F1E"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2DE877D7" w14:textId="77777777" w:rsidR="00FD236A" w:rsidRPr="00B3446B" w:rsidRDefault="00FD236A" w:rsidP="00FD236A">
+      <w:pPr>
+        <w:pStyle w:val="NormalWeb"/>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00B3446B">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+        </w:rPr>
+        <w:t xml:space="preserve">700 days </w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart"/>
+      <w:r w:rsidRPr="00B3446B">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+        </w:rPr>
+        <w:t>ago</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd"/>
+      <w:r w:rsidRPr="00B3446B">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> the Prime Minister promised that he </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart"/>
+      <w:r w:rsidRPr="00B3446B">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+        </w:rPr>
+        <w:t>woud</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd"/>
+      <w:r w:rsidRPr="00B3446B">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 'fix social care' in England. He still hasn't delivered on this promise while millions of people receiving and giving care are waiting for vital changes. </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4A4A4E98" w14:textId="77777777" w:rsidR="00FD236A" w:rsidRPr="00FD236A" w:rsidRDefault="00FD236A" w:rsidP="00FD236A">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00FD236A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>It's crucial that the Government makes sure that care services have the staff and funding they need, as a prio</w:t>
+      </w:r>
+      <w:r w:rsidR="00526ED6">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>r</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00FD236A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>ity. </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1FB5FC61" w14:textId="77777777" w:rsidR="00FD236A" w:rsidRPr="00FD236A" w:rsidRDefault="00FD236A" w:rsidP="00FD236A">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00FD236A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>We've joined with 50 other charities as a part of the Care Support Alliance to call on the Prime Minister to keep his promise. We want you to join us by writing to your MP to ask them to do the same. </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="239FE2F1" w14:textId="77777777" w:rsidR="00FD236A" w:rsidRPr="00FD236A" w:rsidRDefault="0037086C" w:rsidP="00B3446B">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:jc w:val="center"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:hyperlink r:id="rId19" w:tgtFrame="_blank" w:history="1">
+        <w:proofErr w:type="spellStart"/>
+        <w:r w:rsidR="00FD236A" w:rsidRPr="00FD236A">
+          <w:rPr>
+            <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+            <w:b/>
+            <w:bCs/>
+            <w:color w:val="FFFFFF"/>
+            <w:sz w:val="28"/>
+            <w:szCs w:val="28"/>
+            <w:u w:val="single"/>
+            <w:bdr w:val="single" w:sz="6" w:space="0" w:color="00AEEF" w:frame="1"/>
+            <w:shd w:val="clear" w:color="auto" w:fill="00AEEF"/>
+            <w:lang w:eastAsia="en-GB"/>
+          </w:rPr>
+          <w:t>Emaill</w:t>
+        </w:r>
+        <w:proofErr w:type="spellEnd"/>
+        <w:r w:rsidR="00FD236A" w:rsidRPr="00FD236A">
+          <w:rPr>
+            <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+            <w:b/>
+            <w:bCs/>
+            <w:color w:val="FFFFFF"/>
+            <w:sz w:val="28"/>
+            <w:szCs w:val="28"/>
+            <w:u w:val="single"/>
+            <w:bdr w:val="single" w:sz="6" w:space="0" w:color="00AEEF" w:frame="1"/>
+            <w:shd w:val="clear" w:color="auto" w:fill="00AEEF"/>
+            <w:lang w:eastAsia="en-GB"/>
+          </w:rPr>
+          <w:t xml:space="preserve"> your MP </w:t>
+        </w:r>
+      </w:hyperlink>
+    </w:p>
+    <w:p w14:paraId="47D1F8E3" w14:textId="77777777" w:rsidR="00FD236A" w:rsidRPr="00FD236A" w:rsidRDefault="00FD236A" w:rsidP="00FD236A">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00FD236A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">To meet his promise the Prime Minister must invest in Council social care budgets.  </w:t>
+      </w:r>
+      <w:r w:rsidR="00BA6DC0">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>H</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00FD236A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">e needs to grant staff working in care facilities a fair rate of pay along with the professional respect they deserve for their important work. </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5D46054A" w14:textId="77777777" w:rsidR="00FD236A" w:rsidRPr="00FD236A" w:rsidRDefault="00FD236A" w:rsidP="00FD236A">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00FD236A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t></w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6245C624" w14:textId="77777777" w:rsidR="00FD236A" w:rsidRPr="00FD236A" w:rsidRDefault="00FD236A" w:rsidP="00FD236A">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00FD236A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t xml:space="preserve">High quality care should be available whenever people need it and this investment in social care is long overdue. By writing to your MP you will be putting pressure on the Prime Minister to keep his promise and invest the time and money he needs into </w:t>
+      </w:r>
+      <w:r w:rsidR="00BA6DC0">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>‘</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00FD236A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>fixing social care.</w:t>
+      </w:r>
+      <w:r w:rsidR="00BA6DC0">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t>’</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00FD236A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:bdr w:val="none" w:sz="0" w:space="0" w:color="auto" w:frame="1"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t></w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="29CF4040" w14:textId="77777777" w:rsidR="00FD236A" w:rsidRPr="00FD236A" w:rsidRDefault="00FD236A" w:rsidP="00FD236A">
+      <w:pPr>
+        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        <w:textAlignment w:val="baseline"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00FD236A">
+        <w:rPr>
+          <w:rFonts w:ascii="Arial" w:eastAsia="Times New Roman" w:hAnsi="Arial" w:cs="Arial"/>
+          <w:color w:val="333333"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:eastAsia="en-GB"/>
+        </w:rPr>
+        <w:t></w:t>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="00FD236A" w:rsidRPr="00FD236A" w:rsidSect="00E5292D">
+      <w:headerReference w:type="default" r:id="rId20"/>
+      <w:headerReference w:type="first" r:id="rId21"/>
+      <w:pgSz w:w="11901" w:h="16817" w:code="9"/>
+      <w:pgMar w:top="1701" w:right="680" w:bottom="680" w:left="680" w:header="709" w:footer="709" w:gutter="0"/>
+      <w:cols w:space="708"/>
+      <w:titlePg/>
+      <w:docGrid w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
